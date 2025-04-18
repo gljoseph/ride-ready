@@ -117,7 +117,8 @@ Here are some of the visuals:
 <img width="975" alt="image" src="https://github.com/user-attachments/assets/2b4bfaef-6ee7-4dc4-ba8f-4b9028f1ec56" />
 
 **Nutrition Information:**
-<img width="1273" alt="image" src="https://github.com/user-attachments/assets/61bdc518-d834-416c-a99e-a518275cb236" />
+<img width="1270" alt="image" src="https://github.com/user-attachments/assets/db5f8fdc-af79-4af7-8ce0-136fcff5bd57" />
+
 
 
 ## Future Enhancements
